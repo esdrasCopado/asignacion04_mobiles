@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Practica3</string>
+
+    <string name="welcome_text">Welcome to the portals!</string>
+    <string name="welcome_description">Taqueria Los Portales is a quick, casual restaurant</string>
+    <string name="button_start">get started!</string>
+    <string name="terms_of_service">I haver read and accept the Terms and conditions of the portals</string>
+    <string name="privacy_policy">Privacy Policy</string>"
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">E-mail"</string>
+    <string name="name_hint">Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="titile_logo">Logo"</string>
+
+
+    <string name="our_menu">Our menu</string>
+    <string name="cold_drinks">Cold drinks</string>
+    <string name="hot_drinks">Hot drinks</string>
+    <string name="sweets">Sweets</string>
+    <string name="salties">Salties</string>
+    <string name="combos">Combos</string>
+    <string name="custom">Custom</string>
+
+    <string name="ANTOJITOS">ANTOJITOS</string>
+    <string name="ESPECIALIDADES">ESPECIALIDADES</string>
+    <string name="COMBINATIONS">COMBINATIONS</string>
+    <string name="TORTAS">TORTAS</string>
+    <string name="SOPAS">SOPAS</string>
+    <string name="DRINKS">DRINKS</string>
+
+</resources>
